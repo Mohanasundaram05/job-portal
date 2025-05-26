@@ -95,7 +95,7 @@ export const resources: Resource[] = [
     author: "David Rodriguez",
     image: "mp4.png?height=200&width=400",
     slug: "remote-productivity-hacks",
-  },
+  } ,
   {
     id: "5",
     title: "Mastering Behavioral Interview Questions",
